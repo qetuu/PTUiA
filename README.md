@@ -1,6 +1,6 @@
 # PTUiA
 
-Install Python
-Install Pip
-Install VirtualEnv
+Install Python,
+Install Pip,
+Install VirtualEnv,
 python project.py
